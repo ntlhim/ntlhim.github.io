@@ -24,12 +24,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "TrollEye Security",
+      "position": "Penetration Tester",
+      "url": "Trolleyesecurity.com",
+      "startDate": "2025-04-01",
+      "endDate": "2025-12-01",
+      "summary": "Tested numerous corporate enviorments ranging from Cloud , Active Directory, thick clients, OT/ICS, etc ",
       "highlights": ["Relativity"]
     }
   ],
